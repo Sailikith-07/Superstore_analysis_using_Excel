@@ -33,7 +33,8 @@ Gross Margin (%)
 
 **5. Dashboard Features & Visuals:**
 
-Charts Included:
+**Charts Included:**
+
 Combo Chart: Sales vs Months (Columns) & Moving Averages (Line)
 
 Combo Chart: Sales vs Months (Columns) & MoM % Change (Line)
@@ -54,11 +55,11 @@ Top State: California (highest in both sales & profits)
 
 MoM Change: -37.05% in February compared to the previous month (possible post-holiday drop)
 
-Gross Margin: 12% (below usual levels)
+Gross Margin: 12% (below usual levels due to huge discounts)
 
 Top Product: Phones (14% of total revenue)
 
-2017 Most Profitable Product: Copiers (low sales but high profit margin)
+In 2017 Most Profitable Product: Copiers (low sales but high profit margin)
 
 **7. Tools Used:**
 
@@ -66,7 +67,8 @@ Microsoft Excel – for data cleaning, pivot tables, dashboard creation, and vis
 
 **8. File Structure:**
 
-[Superstore_Analytics.xlsx – Main Excel file with:]()
+[Superstore_Analytics.xlsx – Main Excel file with:](https://github.com/Sailikith-07/Superstore_analysis_using_Excel/blob/main/Superstore_analysis.xlsx
+)
 
 Sheet 1: Cleaned Data
 
@@ -76,9 +78,9 @@ Sheet 3: Dashboard
 
 Sheet 4: Insights
 
-📷 Dashboard Preview:
+[📷 Dashboard Preview](https://github.com/Sailikith-07/Superstore_analysis_using_Excel/blob/main/Dashboard.png
+)
 
-(Replace the above path with your actual image link in the repo)
 
 **9. How to Use:**
 
@@ -90,4 +92,4 @@ Use slicers to filter data and see KPIs, charts, and insights update dynamically
 
 **10. References:**
 
-Kaggle Superstore Dataset: https://www.kaggle.com/datasets
+Kaggle Superstore Dataset: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
